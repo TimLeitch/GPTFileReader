@@ -2,7 +2,7 @@
 # Handles reading and merging of text files.
 # Version: 1.0
 # Created: 2023-12-01
-# Author: Kaos
+# Author: Tim Leitch
 
 def merge_files(file_paths):
     with open("merged_output.txt", "w") as output_file:
