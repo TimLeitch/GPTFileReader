@@ -1,6 +1,6 @@
 # File Explorer GUI with Tree View and Checkboxes
 
-This is a simple Python tool that provides a graphical user interface (GUI) for selecting files and reading in their contents. I was needing a way to feed ChatGPT a bunch of pyfiles I was working on at once, and did not want to work it up using their actual API. So I wrote this simple tool to read them in, and provide a GPT with the paths and the contents of the files to help it with understanding complex problems and code bases. 
+This is a simple Python tool for selecting files and reading in their contents. I was needing a way to feed ChatGPT a bunch of .py files contents and paths at once.So I wrote this simple tool to read them in, and shit out a single text document with with the full file path followed by the contents of the selected files. Allows you to have one file that contains the paths and contents of the files. Could be used as a crappy version of git, version control, sending someone a super nerdy email, but lets be real, I used it to send a bunch of files and their contents to Chat GPT to better understand a code base or project. 
 
 ## Usage
 
