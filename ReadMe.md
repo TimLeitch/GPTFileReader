@@ -17,7 +17,7 @@ This is a simple Python tool for selecting files and reading in their contents. 
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/timleitch/repo.git`
+1. Clone the repository: `git clone https://github.com/timleitch/GPTFileReader.git`
 
 ## Running the Tool
 
